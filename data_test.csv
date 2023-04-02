@@ -1,0 +1,13 @@
+length,width,multiplier
+1,1,1
+2,2,1
+3,3,1
+1,5,-1
+5,5,10
+2.3,2,1
+c,Room 1,Separated calculation
+5,3.5,1
+2,2,-1
+c,Room inside room,
+15.3,3.5,1
+2,2,-2
